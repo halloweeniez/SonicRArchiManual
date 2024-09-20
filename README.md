@@ -1,10 +1,7 @@
 # Sonic R Manual
 This Manual is built for the 2004 PC release of Sonic R
 
-Whether you have the correct build or not, please use this updater made by cheatfreak47
-https://github.com/cheatfreak47/SRUpdater/releases/tag/1.0.10
-
-This will also download the SonicR ModManager with a few preinstalled mods and codes
+Feel free to use any version you have but be aware that without access to cheats balloonsanity will cause you immense pain
 
 ## Settings and other gameplay information
 There are currently only 2 settings, Balloonsanity and Traps.
