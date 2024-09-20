@@ -18,8 +18,7 @@ Ice trap means you can't input anything for 5 seconds
 
 Feel free to interpret them as you want, it's a manual after all, you can do whatever you want when the traps come up.
 
-There are also junk items set up as rings, as of right now they don't do anything and I don't have the skill, or the access to a cheat table to be able
-to make adding rings mid game feasible. They are just placeholders to have enough locations.
+There are also junk items set up as rings, as of right now they don't do anything.
 
 ## Usage
 You will need Archipelago which you can find here https://archipelago.gg/
