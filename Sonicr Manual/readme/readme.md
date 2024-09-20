@@ -1,4 +1,3 @@
-This Manual is built for the 2004 PC release of Sonic R
 # Sonic R Manual
 This Manual is built for the 2004 PC release of Sonic R
 
