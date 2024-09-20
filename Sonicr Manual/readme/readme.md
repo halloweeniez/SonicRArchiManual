@@ -22,7 +22,7 @@ There are also junk items set up as rings, as of right now they don't do anythin
 to make adding rings mid game feasible. They are just placeholders to have enough locations.
 
 ## Sonic R Setup
-I cannot provide you with the pc port of sonic r, but if you happen it please use this updater made by cheatfreak47
+I cannot provide you with the pc port of sonic r, but if you happen to have it please use this updater made by cheatfreak47
 
 https://github.com/cheatfreak47/SRUpdater/releases/tag/1.0.10
 
