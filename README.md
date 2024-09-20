@@ -21,15 +21,6 @@ Feel free to interpret them as you want, it's a manual after all, you can do wha
 There are also junk items set up as rings, as of right now they don't do anything and I don't have the skill, or the access to a cheat table to be able
 to make adding rings mid game feasible. They are just placeholders to have enough locations.
 
-## Sonic R Setup
-I cannot provide you with the pc port of sonic r, but if you happen it please use this updater made by cheatfreak47
-
-https://github.com/cheatfreak47/SRUpdater/releases/tag/1.0.10
-
-This will turn whatever Sonic R PC release you have into the 2004 version, it will also download the SonicR ModManager with a few preinstalled mods and codes.
-
-The 2 codes that really matter are "Practice Mode" (Tokens/Emeralds Always Spawn) and if Balloonsanity is on "Hard Balloon Mode" (Need All 17 Balloons). "Easy Balloon Mode" (All 17 Balloons Always Spawn) is also optional
-
 ## Usage
 You will need Archipelago which you can find here https://archipelago.gg/
 
